@@ -13,6 +13,7 @@ django-taggit==0.10
 django-tastypie==0.10.0
 django-templatetag-sugar==0.1
 ecdsa==0.10
+elasticsearch==1.0.0
 Fabric==1.8.0
 gunicorn==18.0
 lxml==3.2.4
@@ -23,7 +24,6 @@ parsedatetime==1.1.2
 psycopg2==2.5.1
 py-bcrypt==0.4
 pycrypto==2.6.1
-pyelasticsearch==0.3
 python-dateutil==2.2
 python-memcached==1.53
 python-mimeparse==0.1.4
